@@ -1,0 +1,26 @@
+Medieval Kingdom
+79.1
+1000
+0
+80
+5
+Peasant
+7.2
+1
+Peasant
+7.2
+1
+Merchant
+0
+1
+Noble
+9
+1
+Peasant
+6.4
+1
+4
+1045
+527
+845
+2021

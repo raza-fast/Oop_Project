@@ -1,0 +1,11 @@
+===== STRONGHOLD KINGDOM SCORE REPORT =====
+
+Kingdom Name: Medieval Kingdom
+Stability: 18.6
+Treasury: 100
+Army Morale: 10
+Army Size: 0
+Population Count: 5
+
+
+Thank you for playing Stronghold!
